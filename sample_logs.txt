@@ -1,0 +1,9 @@
+2026-10-11 09:00:01 INFO camera_101 Camera connection established
+2026-10-11 09:00:05 INFO camera_101 Video stream started
+2026-10-11 09:01:12 WARN camera_101 Frame processing latency exceeded threshold
+2026-10-11 09:01:18 ERROR camera_101 Detection service timeout
+2026-10-11 09:01:22 ERROR camera_101 Failed to publish detection event
+2026-10-11 09:01:30 INFO camera_102 Detection event published successfully
+2026-10-11 09:02:00 WARN camera_101 Retrying detection service connection
+2026-10-11 09:02:10 ERROR camera_101 Detection service timeout
+2026-10-11 09:03:00 INFO camera_101 Health check completed
